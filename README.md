@@ -1,4 +1,4 @@
-# 👋 어울림
+![image](https://github.com/NVDIII/EoUlim/assets/124571378/f368e563-e166-45d0-91da-a92e8fcbdfb1)# 👋 어울림
 ##### 실시간 농인과 비장애인 간의 소통 지원 어플
 ###### 인원: 5명
 ###### 기간: 2024-02-26 ~ 2024-03-07
@@ -7,7 +7,8 @@
 수많은 수어 관련 프로젝트들을 봤지만, 단순하게 단어를 번역해주는 프로젝트들만 다수 존재할 뿐, 실시간으로 소통이 가능하도록 하는 프로젝트는 보지 못함.
 수어는 음성으로, 음성은 텍스트로 번역함으로서 하나의 단말기로 농인과 비장애인이 소통할 수 있도록 하고자 함.
 
-<img width="100%" alt="image" src="https://github.com/dev-aram/Mathuri/assets/135501045/5d3a7fb0-55e3-4dcc-a2bc-6a39ada0ae09">
+
+<img width="100%" alt="image" src="https://github.com/NVDIII/EoUlim/assets/124571378/17b3748a-604f-4dcd-b88e-6cae5177511a">
 
 <hr>
 
