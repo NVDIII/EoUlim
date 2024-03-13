@@ -16,7 +16,8 @@
 영상 데이터와 키포인트 데이터를 각각 다른 방식으로 학습시킴.
 YOLO - 영상
 ResNet - 키포인트
-<img width="100%" alt="image" src="https://github.com/dev-aram/Mathuri/assets/135501045/b9041c53-3ddd-45b8-9e93-413379d7bb00">
+
+<img width="100%" alt="image" src="https://github.com/NVDIII/EoUlim/assets/124571378/20bf4043-a559-485a-a5bf-787d9f13fa91">
 
 
 ## 👨‍💻 Process & Role
