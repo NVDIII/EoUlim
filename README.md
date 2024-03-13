@@ -58,20 +58,22 @@
 - Mediapipe를 이용하여 이미지 별 keypoint를 추출
 - keypoint를 정규화 후 컬러이미지로 변환
 
-<img width="100%" alt="image" src="https://github.com/dev-aram/Mathuri/assets/135501045/1abe245c-1cab-4294-9e44-64e31c57926f">
-<img width="100%" alt="image" src="https://github.com/dev-aram/Mathuri/assets/135501045/ca2ee070-ea4b-46e9-85be-62f0dad75699">
+<img width="100%" alt="image" src="https://github.com/NVDIII/EoUlim/assets/124571378/bd305744-a34e-4ebb-8d5c-bdc1f36d950e">
+<img width="100%" alt="image" src="https://github.com/NVDIII/EoUlim/assets/124571378/ebbbe2dc-8e97-49c5-847d-8d8b5f5cc9b8">
+<img width="100%" alt="image" src="https://github.com/NVDIII/EoUlim/assets/124571378/53927064-2fcb-44c4-bab3-e3be80dfb4a4">
 
 - ResNetCustom Class객체를 만들어 학습
 
-<img width="100%" alt="image" src="https://github.com/dev-aram/Mathuri/assets/135501045/ca2ee070-ea4b-46e9-85be-62f0dad75699">
+<img width="100%" alt="image" src="https://github.com/NVDIII/EoUlim/assets/124571378/600ce4de-735c-4e29-94d0-36f33117d346">
 
 ### **최종 선택 모델**
-더 정확도가 높은 ResNet 모델(Keypoint)을 최종적으로 선택함.
+- 더 정확도가 높은 ResNet 모델(Keypoint)을 최종적으로 선택함.
 
-<img width="100%" alt="image" src="https://github.com/dev-aram/Mathuri/assets/135501045/7be28c64-0c2a-4e17-ab4d-9c0295ba1180">
+<img width="100%" alt="image" src="https://github.com/NVDIII/EoUlim/assets/124571378/248519a2-f0e3-4bf2-9090-e9ac6c04b095">
 
-- **모델로 뽑은 단어를 GPT 모델에서 처리**
-<img width="100%" alt="image" src="https://github.com/dev-aram/Mathuri/assets/135501045/f08979cc-647c-4085-b13e-6e097dfe9e71">
+### **모델로 뽑은 단어를 자연어 처리 모델에서 처리**
+- GPT2 API를 활용하여 텍스트 처리 된 수어를 자연스럽게 처리
+<img width="100%" alt="image" src="https://github.com/NVDIII/EoUlim/assets/124571378/0d25fb8e-923d-4061-b663-6103d3c64355">
 
 -----------------
 ### ⚙️ Skills & Tools
@@ -88,9 +90,4 @@
 <p>
   <img src="https://img.shields.io/badge/Colab-F37626?style=flat&logo=googlecolab&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/AWSEC2-FF9900?style=flat&logo=amazonec2&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/AWSS3-569A31?style=flat&logo=amazons3&logoColor=white"/>&nbsp;&nbsp;
-
-  
 </p>
