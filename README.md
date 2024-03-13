@@ -51,7 +51,7 @@
 <img width="100%" alt="image" src="https://github.com/NVDIII/EoUlim/assets/124571378/b1837d3c-4f09-41bf-8d76-173b2ae93df7">
 
 - 전처리한 데이터를 모델에 학습
-<img width="100%" alt="image" src="https://github.com/dev-aram/Mathuri/assets/135501045/dc70ce0e-efc0-4c11-ba5a-46af259e8fb7">
+<img width="100%" alt="image" src="https://github.com/NVDIII/EoUlim/assets/124571378/625aa3f6-29f6-4d45-a7ce-d000b72b3b31">
 
 ### **ResNet**
 - 시공간지도사상기법을 통해 데이터를 학습
