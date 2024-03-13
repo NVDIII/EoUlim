@@ -83,7 +83,7 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=AdobeIllustrator&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=AdobeIllustrator&logoColor=white"/>
-  <img src="https://img.shields.io/badge/#412991?style=flat&logo=html5&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GPT2-#412991?style=flat&logo=html5&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=4479A1"/>&nbsp;&nbsp;
