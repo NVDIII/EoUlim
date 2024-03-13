@@ -22,18 +22,20 @@
 
 ## 👨‍💻 Process & Role
 #### Overall Process
-###### - 기획, 서버구현, 프론트구현, 모델학습, 서버배포, PPT제작, 발표, 데이터수집
+###### - 기획, 서버구현, 프론트구현, 모델학습, PPT제작, 발표, 데이터수집
 #### 😺 My Role
-###### - 기획, 서버구현, 프론트구현, 서버배포, PPT제작, 데이더수집
+###### - YOLO 모델 학습, 데이터수집
 
 ## 🌏 Dataset & Model
 #### Dataset
-- 문제별로 [질문과 답변 데이터](https://github.com/moon-123/Matchuri-NLP-project/files/14344362/QADataset.xlsx)를 직접 작성함
-- 모델 학습에 사용한 문제는 총 6개로 2289개의 질문-답 데이터셋 사용
+- [AIh-Hub]([https://github.com/moon-123/Matchuri-NLP-project/files/14344362/QADataset.xlsx](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=103))에서 수어 데이터를 다운로드
+- Training : 총 단어 3000개, 각기 다른 사람 16명 분의 데이터가 존재
+- Validation: 총 단어 3000개, 각기 다른 사람 2명 분의 데이터가 존재 
 
 #### Model
-- 문장 학습 모델 [skt/kogpt2-base-v2](https://github.com/SKT-AI/KoGPT2)
-- 유사도 측정 모델 [ddobokki/klue-roberta-base-nli-sts](https://huggingface.co/ddobokki/klue-roberta-base-nli-sts)
+- 영상 학습 모델 [YOLOv5](https://github.com/ultralytics/yolov5)
+- 키포인트 학습 모델 [ResNet](https://wikidocs.net/137252)
+- STT [GPT2 API](https://huggingface.co/docs/transformers/model_doc/gpt2)
 -----------------
 ## 🚀 Result
 
