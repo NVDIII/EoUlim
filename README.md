@@ -48,7 +48,7 @@
 - 영상을 최대한 수어 뜻과 관련있는 부분만 따로 추려내어 프레임별로 쪼개어 이미지로 저장
 - 수어 데이터를 뜻 별로 클래스로 구분하여 라벨데이터를 만듦.
 - YOLOv5 모델에 학습시키기 위해 위 과정을 바탕으로 YAML 파일 생성
-<img width="100%" alt="image" src="https://github.com/dev-aram/Mathuri/assets/135501045/102acf10-a28f-4910-9cf4-fcbbe411205e">
+<img width="100%" alt="image" src="https://github.com/NVDIII/EoUlim/assets/124571378/b1837d3c-4f09-41bf-8d76-173b2ae93df7">
 
 - 전처리한 데이터를 모델에 학습
 <img width="100%" alt="image" src="https://github.com/dev-aram/Mathuri/assets/135501045/dc70ce0e-efc0-4c11-ba5a-46af259e8fb7">
