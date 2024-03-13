@@ -40,7 +40,7 @@
 ## 🚀 Result
 
 ### **발표ppt**
-[추리추리 마추리 ppt](https://github.com/dev-aram/Mathuri/blob/master/%EB%A7%88%EC%B6%94%EB%A6%AC_%EB%B0%9C%ED%91%9C.pdf)
+[어울림 ppt](https://github.com/NVDIII/EoUlim/blob/main/%EC%96%B4%EC%9A%B8%EB%A6%BC.pdf)
 
 
 ### **프론트**
@@ -81,6 +81,7 @@
 ### ⚙️ Skills & Tools
 
 <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=AdobeIllustrator&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>&nbsp;&nbsp;
